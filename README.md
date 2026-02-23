@@ -26,3 +26,6 @@ The script will prompt you for your nanobot workspace path and the path to your 
 
 ## Usage
 Once installed, simply ask your nanobot to clear discord message history (e.g. "Please clear your recent messages in this Discord chat." The bot will execute the skill using its current active channel ID. Optionally, you can instruct your nanobot to configure a cron job to clear message history (Discord API doesn't allow deletion of old messages).
+
+## License
+MIT
