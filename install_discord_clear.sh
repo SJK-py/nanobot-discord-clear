@@ -16,6 +16,11 @@ mkdir -p "$SKILL_DIR"
 mkdir -p "$TOOL_DIR"
 
 cat << 'EOF' > "$SKILL_DIR/SKILL.md"
+---
+name: discord-clear
+description: Clear Discord message history.
+---
+
 # Discord Clear Skill
 
 ## Description
